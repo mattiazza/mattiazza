@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I’m Mattia Piazza </h1>
+<h1 align="center"> Hi, I’m Mattia Piazza 🎩 </h1>
 
 <p align="center">📚 Master's Student in Data Science at the University of Padova</p>
 
